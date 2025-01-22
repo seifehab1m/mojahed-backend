@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_more_desc_more_descs",
+  "info": {
+    "displayName": "moreDesc",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "desc": {
+      "type": "string"
+    }
+  }
+}

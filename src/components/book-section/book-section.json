@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_book_section_book_sections",
+  "info": {
+    "displayName": "bookSection"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "subTitle": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_event_content_event_contents",
+  "info": {
+    "displayName": "Event Content"
+  },
+  "options": {},
+  "attributes": {
+    "tabTitle": {
+      "type": "string"
+    },
+    "tabDescription": {
+      "type": "richtext"
+    }
+  }
+}

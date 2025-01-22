@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_about_f_aqs",
+  "info": {
+    "displayName": "fAQ"
+  },
+  "options": {},
+  "attributes": {
+    "question": {
+      "type": "string",
+      "required": true
+    },
+    "answer": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

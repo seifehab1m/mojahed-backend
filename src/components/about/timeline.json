@@ -1,0 +1,37 @@
+{
+  "collectionName": "components_about_timelines",
+  "info": {
+    "displayName": "timeline"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "subTitle": {
+      "type": "string"
+    },
+    "header": {
+      "type": "string",
+      "required": true
+    },
+    "subHeader": {
+      "type": "string"
+    },
+    "BooksNumber": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string",
+      "required": true
+    },
+    "yearsTimeline": {
+      "displayName": "yearsTimeLine",
+      "type": "component",
+      "repeatable": true,
+      "component": "about.years-time-line"
+    }
+  }
+}

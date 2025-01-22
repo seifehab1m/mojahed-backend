@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_about_books_descriptions",
+  "info": {
+    "displayName": "booksDescription"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

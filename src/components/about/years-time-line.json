@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_about_years_time_lines",
+  "info": {
+    "displayName": "yearsTimeLine"
+  },
+  "options": {},
+  "attributes": {
+    "year": {
+      "type": "string"
+    }
+  }
+}

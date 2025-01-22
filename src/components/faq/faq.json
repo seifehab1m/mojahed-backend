@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_faq_faqs",
+  "info": {
+    "displayName": "faq"
+  },
+  "options": {},
+  "attributes": {
+    "fAQ": {
+      "type": "component",
+      "repeatable": true,
+      "component": "about.f-aq"
+    },
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "subTitle": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

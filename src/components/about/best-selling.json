@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_about_best_sellings",
+  "info": {
+    "displayName": "bestSelling",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "subTitle": {
+      "type": "string",
+      "required": true
+    },
+    "booksDescription": {
+      "displayName": "booksDescription",
+      "type": "component",
+      "repeatable": true,
+      "component": "about.books-description"
+    },
+    "img": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    }
+  }
+}

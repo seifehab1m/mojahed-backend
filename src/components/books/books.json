@@ -1,0 +1,38 @@
+{
+  "collectionName": "components_books_books",
+  "info": {
+    "displayName": "books"
+  },
+  "options": {},
+  "attributes": {
+    "bookName": {
+      "type": "string"
+    },
+    "continents": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "imgCover": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "imgSpine": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

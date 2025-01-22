@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_about_abouts",
+  "info": {
+    "displayName": "about",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subTitle": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "moreDesc": {
+      "displayName": "moreDesc",
+      "type": "component",
+      "repeatable": true,
+      "component": "more-desc.more-desc"
+    },
+    "img": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}

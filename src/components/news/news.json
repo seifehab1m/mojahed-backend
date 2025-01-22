@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_news_news",
+  "info": {
+    "displayName": "news",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subTitle": {
+      "type": "string"
+    }
+  }
+}

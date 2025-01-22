@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_social_media_icons_social_media_icons",
+  "info": {
+    "displayName": "socialMediaIcons"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "string",
+      "required": true
+    },
+    "img": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    }
+  }
+}
